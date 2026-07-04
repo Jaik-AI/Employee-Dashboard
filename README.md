@@ -110,6 +110,8 @@ python main.py
 ---
 
 ## Dashboard Preview
+<img width="1920" height="1080" alt="Screenshot 2026-07-04 160337" src="https://github.com/user-attachments/assets/6bd2e43d-4d4c-47dd-8054-62d838a181ea" />
+
 
 The dashboard provides insights into:
 
